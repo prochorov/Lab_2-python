@@ -20,15 +20,6 @@ def int_to_string(value):
 
 inp = int(input('Введите число в промежутке [0, 99]: '))
 
-"""def main():
-    if inp > 99:
-        return "Много"
-    elif inp < 1:
-        return None
-    else:
-        return int_to_string(inp)
-"""
-
 v1 = "сидела"
 v2 = "сидело"
 V1 = "синица"
