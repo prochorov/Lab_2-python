@@ -1,0 +1,1 @@
+[print(int(i, 8), end=' ') for i in input().split(' ')]
